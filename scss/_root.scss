@@ -1,0 +1,4 @@
+$index: calc(1vw + 1vh);
+$text: #e7e6d3;
+$article-transform: translate3d(0, calc(var(--scrollTop) / -7.5), 0);
+$transition: translate 0.75 cubic-bezier(0.075, 0.5, 0, 1);
